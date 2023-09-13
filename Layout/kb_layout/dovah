@@ -3,7 +3,7 @@
 default basic
 xkb_symbols "basic" {
 
-    name[Group1]= "DOVahTINVaaK";
+    name[Group1]= "DOVahZUL";
 
     key <TLDE>	{[   grave,	 asciitilde	]};
     key <AE01>	{[	 1,	 exclam		]};
