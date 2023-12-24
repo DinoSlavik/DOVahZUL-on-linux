@@ -32,7 +32,7 @@ xkb_symbols "basic" {
     key <AD11>	{[ bracketleft,	 braceleft	]};
     key <AD12>	{[ bracketright, braceright	]};
 
-    key <AC01>	{[	 A,	 aa		]};
+    key <AC01>	{[	 U0E1090,	 aa		]};
     key <AC02>	{[	 	 S		]};
     key <AC03>	{[	 	 D		]};
     key <AC04>	{[	 	 F		]};
@@ -49,7 +49,7 @@ xkb_symbols "basic" {
     key <AB02>	{[	 	 X		]};
     key <AB03>	{[	 	 C		]};
     key <AB04>	{[	 	 V		]};
-    key <AB05>	{[	 	 B		]};
+    key <AB05>	{[	 	 U0E1091		]};
     key <AB06>	{[	 	 N		]};
     key <AB07>	{[	 	 M		]};
     key <AB08>	{[   comma,	 less		]};
